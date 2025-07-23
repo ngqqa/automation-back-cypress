@@ -26,7 +26,7 @@ cd automation-back-cypress
 
 ## Execução dos Tests
 
-Executar `npm run cypress open` Deverá ser aberto o console do Cypess.
+Executar `npx cypress open` Deverá ser aberto o console do Cypess.
 Selecionar a opção desejada
 
 ## -------------------------------------------------------------------------
