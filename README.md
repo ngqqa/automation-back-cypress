@@ -17,7 +17,7 @@ Alguns casos de testes foram utilizados para o desenvolvimento da automação.
 ## Instalação
 
 1º - passo a ser executado para a instalação do projeto:
-Clonar o projeto: https://github.com/rodrigoarriel56/automation-back-cypress
+Clonar o projeto: https://github.com/ngqqa/automation-back-cypress.git
 
 2º - Acessar a pasta do projeto:
 cd automation-back-cypress
