@@ -4,10 +4,6 @@
 
 Projeto de automação de testes para API com Cypress.
 
-## ATENÇÃO
-O diretorio "Cenarios de testes, contém diversos casos de testes propostos para todo o desafio.
-Alguns casos de testes foram utilizados para o desenvolvimento da automação.
-
 ## Pre-requisito
 
 É necessário ter Node.js e NPM/YARN instalados para executar este projeto.
