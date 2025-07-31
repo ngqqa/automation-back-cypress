@@ -4,10 +4,6 @@
 
 Projeto de automação de testes para API com Cypress.
 
-## ATENÇÃO
-O diretorio "Cenarios de testes, contém diversos casos de testes propostos para todo o desafio.
-Alguns casos de testes foram utilizados para o desenvolvimento da automação.
-
 ## Pre-requisito
 
 É necessário ter Node.js e NPM/YARN instalados para executar este projeto.
@@ -17,7 +13,7 @@ Alguns casos de testes foram utilizados para o desenvolvimento da automação.
 ## Instalação
 
 1º - passo a ser executado para a instalação do projeto:
-Clonar o projeto: https://github.com/rodrigoarriel56/automation-back-cypress
+Clonar o projeto: https://github.com/ngqqa/automation-back-cypress.git
 
 2º - Acessar a pasta do projeto:
 cd automation-back-cypress
@@ -26,7 +22,7 @@ cd automation-back-cypress
 
 ## Execução dos Tests
 
-Executar `npm run cypress open` Deverá ser aberto o console do Cypess.
+Executar `npx cypress open` Deverá ser aberto o console do Cypess.
 Selecionar a opção desejada
 
 ## -------------------------------------------------------------------------
